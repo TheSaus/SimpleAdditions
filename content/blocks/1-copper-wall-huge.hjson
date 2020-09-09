@@ -1,0 +1,10 @@
+name: Huge Copper Wall
+description: A cheap defensive block. Useful for protecting the core and turrets in the first few waves. Spans multiple tiles
+type: Wall
+health: 2880
+size: 3
+requirements: [
+  copper/54
+]
+category: defense
+research: copper-wall-large
