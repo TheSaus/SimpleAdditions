@@ -1,0 +1,28 @@
+type: GenericCrafter
+size: 4
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 90
+updateEffect: smeltsmoke
+consumes: {
+  power: 1
+  items: {
+    items: [
+      surge-alloy/10
+      thorium/10
+	  plastanium/10
+	  metaglass/10
+    ]
+  }
+}
+requirements: [
+  lead/80
+  copper/120
+  graphite/80
+]
+category: crafting
+research: pyratite-mixer
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: rosenium/1

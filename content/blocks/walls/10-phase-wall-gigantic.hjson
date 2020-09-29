@@ -1,0 +1,11 @@
+name: Gigantic Phase Wall
+description: A wall coated with special phase-based reflective compound. Deflects most bullets upon impact. Spans multiple tiles
+type: DeflectorWall
+health: 9600
+size: 4
+insulated: true
+requirements: [
+  phase-fabric/96
+]
+category: defense
+research: 9-phase-wall-huge

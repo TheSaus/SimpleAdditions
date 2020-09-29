@@ -1,0 +1,11 @@
+name: Huge Surge Wall
+description: An extremely durable defensive block. Builds up charge on bullet contact, releasing it randomly. Spans multiple tiles
+type: Wall
+health: 8280
+size: 3
+insulated: true
+requirements: [
+  surge-alloy/54
+]
+category: defense
+research: surge-wall-large
