@@ -1,6 +1,6 @@
-name: "large-walls"
-displayName: "Large Walls" //what displays in the mod selection menu
-author: "The-Saus / MysteryKaar"
-description: "Lets you build larger walls like the scrap ones"
-version: "0.1"
+name: "large-walls" //internal name is old, wont change cause its gonna cause problems and its never seen anyways
+displayName: "Simple Additions" //what displays in the mod selection menu
+author: "[cyan]The-Saus#1038[] / MysteryKaar"
+description: "Adds simple things, like the ability to [red]build Huge and Gigantic walls[] and a few other things"
+version: "0.2"
 minGameVersion: "103"
