@@ -1,7 +1,5 @@
 type: ArmoredConveyor
 requirements: [
-	metaglass/2
-	thorium/2
 	surge-alloy/2
 	rosenium/2
 ]
