@@ -1,0 +1,18 @@
+{
+    "name": "Advanced Repair Point",
+    "description": "An advanced version of the Repair Point. It repairs faster and has a larger repair radius",
+    "type": "RepairPoint",
+    "health": 125,
+    "size": 2,
+    "powerUse": 3,
+    "repairRadius": 130,
+    "repairSpeed": 1.8,
+    "requirements": [
+		copper/45
+		metaglass/15
+		thorium/35
+		silicon/45
+	],
+    "category": "units",
+    "research": "repair-point"
+}
