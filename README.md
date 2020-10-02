@@ -1,2 +1,3 @@
 # Simple Additions
-Adds a few simple things, like the ability to build huge and gigantic walls (like the scrap ones) and a new alloy that comes with its own wall and conveyor
+* You can build Huge and Gigantic variants of vanilla walls
+* Adds a new alloy called Rosenium that comes with its own walls (including huge and gigantic) and a conveyor
