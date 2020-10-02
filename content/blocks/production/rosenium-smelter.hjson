@@ -3,11 +3,11 @@ size: 4
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 180
+craftTime: 240
 itemCapacity: 20
 updateEffect: smeltsmoke
 consumes: {
-  power: 5
+  power: 6
   items: {
     items: [
       surge-alloy/5
