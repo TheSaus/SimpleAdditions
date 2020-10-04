@@ -1,7 +1,7 @@
 name: Large Rosenium Wall
 description: An unbelievably durable defensive block. Builds up charge on bullet contact, releasing it randomly. Spans multiple tiles
 type: SurgeWall
-health: 4400
+health: 5720
 size: 2
 insulated: true
 lightningChance: 0.15f
