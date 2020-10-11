@@ -4,17 +4,21 @@ hasPower: true
 hasLiquids: false
 hasItems: true
 craftTime: 240
-itemCapacity: 20
+itemCapacity: 8
 updateEffect: smeltsmoke
 consumes: {
   power: 6
   items: {
     items: [
-      surge-alloy/5
-      thorium/5
-	  plastanium/5
-	  metaglass/5
+      surge-alloy/4
+      thorium/4
+      plastanium/4
+      metaglass/4
     ]
+  }
+  liquid: {
+    liquid: cryofluid
+    amount: 0.1249999999999999998
   }
 }
 requirements: [
