@@ -6,7 +6,7 @@
     "size": 2,
     "powerUse": 3,
     "repairRadius": 130,
-    "repairSpeed": 1.8,
+    "repairSpeed": 2,
     "requirements": [
 		copper/45
 		metaglass/15
