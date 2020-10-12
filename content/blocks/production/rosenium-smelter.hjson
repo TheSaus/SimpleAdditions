@@ -1,10 +1,11 @@
 type: GenericSmelter
 size: 4
 hasPower: true
-hasLiquids: false
+hasLiquids: true
 hasItems: true
 craftTime: 240
 itemCapacity: 8
+liquidCapacity: 120
 updateEffect: smeltsmoke
 consumes: {
   power: 6
@@ -18,7 +19,7 @@ consumes: {
   }
   liquid: {
     liquid: cryofluid
-    amount: 0.1249999999999999998
+    amount: 0.25
   }
 }
 requirements: [
