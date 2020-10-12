@@ -3,4 +3,4 @@ displayName: "Simple Additions" //what displays in the mod selection menu
 author: "[cyan]The-Saus#1038[] / MysteryKaar"
 description: "Adds simple things, like the ability to [red]build Huge and Gigantic walls[] and a few other things"
 version: "1.3.2"
-minGameVersion: "103"
+minGameVersion: "104"
