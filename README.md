@@ -4,4 +4,4 @@
 * Adds a new alloy called Rosenium that comes with its own walls (including huge and gigantic) and a conveyor
 * Adds a Better Repair Point
 
-### This mod gets updated Frequently, make sure to check for updates often
+### Updates are _not_ guaranteed
