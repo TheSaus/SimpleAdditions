@@ -5,4 +5,4 @@
 * Adds a Better Repair Point
 
 #### Updates are _not_ guaranteed
-#### I will port to v6 once it gets released
+#### v6 port is currently a WIP, sprites need updating and so does code. certain features might not be available until v6 release due to bugs
