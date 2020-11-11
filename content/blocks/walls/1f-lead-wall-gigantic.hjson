@@ -1,0 +1,9 @@
+type: Wall
+health: 6400
+size: 4
+requirements: [
+  lead/80
+  graphite/32
+]
+category: defense
+research: 1a-copper-wall-huge

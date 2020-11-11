@@ -1,0 +1,11 @@
+type: Wall
+health: 4680	
+size: 3
+insulated: true
+absorbLasers: true
+requirements: [
+  metaglass/18
+  plastanium/45
+]
+category: defense
+research: plastanium-wall-large

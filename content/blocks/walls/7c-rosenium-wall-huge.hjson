@@ -1,0 +1,14 @@
+type: Wall
+health: 11970
+size: 3
+absorbLasers: true
+lightningChance: 0.25f
+lightningLength: 20
+lightningColor: f1b8a1
+chanceDeflect: 10
+requirements: [
+  rosenium/54
+  phase-fabric/27
+]
+category: defense
+research: 7b-rosenium-wall-large

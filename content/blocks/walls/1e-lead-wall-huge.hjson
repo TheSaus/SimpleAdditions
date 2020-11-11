@@ -1,0 +1,9 @@
+type: Wall
+health: 3600
+size: 3
+requirements: [
+  lead/45
+  graphite/18
+]
+category: defense
+research: 1d-lead-wall-large

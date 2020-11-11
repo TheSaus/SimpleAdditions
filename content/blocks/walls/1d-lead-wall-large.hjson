@@ -1,0 +1,9 @@
+type: Wall
+health: 1600
+size: 2
+requirements: [
+  lead/20
+  graphite/8
+]
+category: defense
+research: 1c-lead-wall

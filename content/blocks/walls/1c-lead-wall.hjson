@@ -1,0 +1,9 @@
+type: Wall
+health: 400
+size: 1
+requirements: [
+  lead/5
+  graphite/2
+]
+category: defense
+research: copper-wall

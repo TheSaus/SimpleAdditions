@@ -1,0 +1,9 @@
+type: Wall
+health: 5400
+size: 3
+chanceDeflect: 10
+requirements: [
+  phase-fabric/54
+]
+category: defense
+research: phase-wall-large

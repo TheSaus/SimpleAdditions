@@ -1,0 +1,9 @@
+type: Wall
+health: 14720
+size: 4
+lightningChance: 0.15
+requirements: [
+  surge-alloy/96
+]
+category: defense
+research: 6a-surge-wall-huge

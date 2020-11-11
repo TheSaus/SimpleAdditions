@@ -1,0 +1,11 @@
+type: Wall
+health: 8320
+size: 4
+insulated: true
+absorbLasers: true
+requirements: [
+  metaglass/32
+  plastanium/80
+]
+category: defense
+research: 3a-plastanium-wall-huge

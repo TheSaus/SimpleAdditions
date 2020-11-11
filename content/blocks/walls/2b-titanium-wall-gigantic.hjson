@@ -1,0 +1,8 @@
+type: Wall
+health: 7040
+size: 4
+requirements: [
+  titanium/96
+]
+category: defense
+research: 2a-titanium-wall-huge
