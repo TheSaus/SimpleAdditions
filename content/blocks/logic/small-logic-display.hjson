@@ -1,0 +1,11 @@
+type: LogicDisplay
+size: 2
+health: 160
+category: logic
+displaySize: 48
+requirements: [
+lead/60
+silicon/30
+metaglass/30
+]
+research: micro-logic-display
