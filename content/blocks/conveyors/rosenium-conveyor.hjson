@@ -1,10 +1,10 @@
-type: ArmoredConveyor
+type: Conveyor
 requirements: [
 	surge-alloy/2
 	rosenium/2
 ]
 health: 400
 category: distribution
-speed: 0.4 //for some reason 0.08 = 10 a second, so 0.08*5 = 0.4
-displayedSpeed: 50
+speed: 0.4
+displayedSpeed: 55
 research: titanium-conveyor
