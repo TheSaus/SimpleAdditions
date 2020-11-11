@@ -12,7 +12,7 @@ consumes: {
   items: {
     items: [
       surge-alloy/4
-      thorium/4
+      phase-fabric/4
       plastanium/4
       metaglass/4
     ]
