@@ -1,0 +1,25 @@
+type: OverdriveProjector
+health: 80
+range: 38
+size: 1
+hasPower: true
+speedBoost: 1.2
+speedBoostPhase: 0.2
+phaseRangeBoost: 12
+requirements: [
+  lead/40
+  titanium/25
+  silicon/30
+]
+consumes: {
+  power: 1 //1 = 60
+  items: {
+    items: [
+      silicon/1
+    ]
+    booster: true
+	optional: true
+  }
+  }
+category: effect
+research: mend-projector
