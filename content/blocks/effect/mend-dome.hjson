@@ -22,4 +22,5 @@ silicon/200
 phase-fabric/80
 surge-alloy/120
 ]
-hasBoost: false
+phaseBoost: 0
+phaseRangeBoost: 0
