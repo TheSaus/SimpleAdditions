@@ -8,8 +8,8 @@ healPercent: 20
 consumes: {
 items: {
     items: [
-      silicon/1
       phase-fabric/1
+	  silicon/1
     ]
   }
 }
