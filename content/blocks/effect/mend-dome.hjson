@@ -1,12 +1,11 @@
 type: MendProjector
 size: 3
 health: 720
-hasPower: true
+powerUse: 5 //1=60
 range: 210
 reload: 300
 healPercent: 20
 consumes: {
-power: 5
 items: {
     items: [
       phase-fabric/1
