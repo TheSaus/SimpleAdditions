@@ -1,0 +1,21 @@
+name: Large Launch Pad
+description: An improved version of the launch pad. Stores more items. Launches more frequently.
+//type: LaunchPad
+itemCapacity: 300
+size: 4
+launchTime: 1800
+health: 1000
+buildVisibility: campaignOnly
+//podRegion: large-launch-pad-pod
+lightColor: ffffff
+podEngineColor: ccffff
+buildCostMultiplier: 0.85
+researchCostMultiplier: 4.7
+consumes: {
+  power: 1
+}
+requirements: [
+  lead/1
+]
+category: effect
+research: launch-pad
