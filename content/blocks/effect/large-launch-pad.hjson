@@ -12,10 +12,13 @@ podEngineColor: ccffff
 buildCostMultiplier: 0.85
 researchCostMultiplier: 4.7
 consumes: {
-  power: 1
+  power: 6
 }
 requirements: [
-  lead/1
+  titanium/200
+  silicon/150
+  lead/250
+  plastanium/75
 ]
 category: effect
 research: launch-pad
