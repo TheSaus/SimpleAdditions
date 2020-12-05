@@ -3,11 +3,11 @@ description: An improved version of the launch pad. Stores more items. Launches 
 //type: LaunchPad
 itemCapacity: 300
 size: 4
-launchTime: 1800
+launchTime: 2100
 health: 1000
 buildVisibility: campaignOnly
 //podRegion: large-launch-pad-pod
-lightColor: ffffff
+lightColor: eab678
 podEngineColor: ccffff
 buildCostMultiplier: 0.85
 researchCostMultiplier: 4.7
