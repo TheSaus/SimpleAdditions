@@ -1,10 +1,13 @@
-type: Conveyor
+type: StackConveyor
 requirements: [
-	surge-alloy/2
-	rosenium/2
+	rosenium/1
+	surge-alloy/1
+	silicon/1
+	graphite/1
 ]
-health: 400
+health: 180
 category: distribution
-speed: 0.4
-displayedSpeed: 55
-research: titanium-conveyor
+speed: 0.133333333 // 8 / 60 = 80/s
+displayedSpeed: 80
+itemCapacity: 20
+research: plastanium-conveyor
