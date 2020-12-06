@@ -3,28 +3,28 @@ size: 4
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 240
-itemCapacity: 8
+craftTime: 120
+itemCapacity: 10
 liquidCapacity: 120
 updateEffect: smeltsmoke
 consumes: {
   power: 6
   items: {
     items: [
-      surge-alloy/4
-      phase-fabric/4
-      plastanium/4
-      metaglass/4
+      surge-alloy/2
+      phase-fabric/1
+      plastanium/2
+      metaglass/2
     ]
   }
   liquid: {
     liquid: cryofluid
-    amount: 0.25
+    amount: 0.20 //1 = 60/s
   }
 }
 requirements: [
   surge-alloy/1000
-  thorium/600
+  phase-fabric/600
   graphite/350
   metaglass/500
   silicon/750
@@ -33,4 +33,4 @@ category: crafting
 research: alloy-smelter
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: rosenium/2
+outputItem: rosenium/1
