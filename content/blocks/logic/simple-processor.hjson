@@ -1,0 +1,11 @@
+type: LogicBlock
+category: logic
+size: 1
+requirements: [
+	copper/30
+	lead/20
+]
+instructionsPerTick: 1
+health: 20
+range: 32
+research: silicon-smelter
