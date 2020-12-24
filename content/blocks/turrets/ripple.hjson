@@ -1,0 +1,26 @@
+ammoTypes: {
+  //re-define old types of ammo
+  graphite: artilleryDense
+  silicon: artilleryHoming
+  pyratite: artilleryIncendiary
+  blast-compound: artilleryExplosive
+  plastanium: artilleryPlastic
+  
+  //define a custom type with different properties
+  thorium: {
+    type: ArtilleryBulletType
+    speed: 3
+	damage: 20
+	hitEffect: blastExplosion
+	knockback: 0.8
+	width: 14
+	height: 14
+	collidesTiles: false
+	splashDamageRadius: 32
+	splashDamage: 40
+	frontColor: fab7d3
+	backColor: f9a3c7
+	ammoMultiplier: 1
+	reloadMultiplier: 0.9
+}
+}
