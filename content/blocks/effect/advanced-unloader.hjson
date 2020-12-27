@@ -1,0 +1,18 @@
+type: unloader
+health: 120
+category: effect
+speed: 3
+group: transportation
+requirements:[
+	thorium/50
+	titanium/60
+	silicon/100
+]
+research:{
+	parent:unloader
+	requirements:[
+		thorium/20000
+		titanium/24000
+		silicon/40000
+	]
+}
