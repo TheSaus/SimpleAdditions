@@ -2,5 +2,5 @@ name: "simple-additions"
 displayName: "Simple Additions" //what displays in the mod selection menu
 author: "[cyan]The[white]-[cyan]Saus[white]#1038[]"
 description: "Adds simple things, like the ability to build Huge and Gigantic walls, a new resource, an upgraded launch pad and more"
-version: "1.3.6.2"
+version: "1.3.6.3"
 minGameVersion: "122"
