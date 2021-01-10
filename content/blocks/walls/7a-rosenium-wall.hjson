@@ -2,7 +2,7 @@ type: Wall
 health: 1330 // √(920²+800²+520²) is the equation used to get this number, rounded down to a ten since 1325.44332206 is a weird number. the three numbers are from surge, thorium, and plastanium walls health value
 size: 1
 absorbLasers: true
-lightningChance: 0.15
+lightningChance: 0.10
 lightningLength: 20
 lightningColor: f1b8a1
 chanceDeflect: 10
